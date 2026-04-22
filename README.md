@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CeeJay1506
+- 👋 Hi, I’m Chisom
 
 - 👀 I’m a front-end developer 
 - 💞️ I’m looking to collaborate on front-end projects 
